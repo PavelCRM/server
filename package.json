@@ -1,0 +1,16 @@
+{
+  "name": "dz4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "joi": "^17.12.2"
+  }
+}
